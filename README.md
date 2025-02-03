@@ -12,9 +12,6 @@ With this simulator, it is possible to :
 
 This project does not pretend to be a perfect representation of a defi platform, but a tool to help you test your defi strategy.
 
-## Installation
-
-
 ## Currencies
 
 You can create currency objects with the `Currency` class.
