@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Vscode
+.vscode
+
+# API keys
+api_keys.yaml
+
+# Libraries folder
+.mypy_cache
+.ruff_cache
+
+# test
+sandbox/

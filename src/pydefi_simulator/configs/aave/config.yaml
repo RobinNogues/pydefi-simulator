@@ -1,0 +1,76 @@
+
+3:
+    ethereum-core:
+        source: thegraph
+        name: Aave V3 Ethereum Core
+        subgraph_id: Cd2gEDVeqnjBn1hSeqFMitw8Q1iiyV9FYUZkLNRcL87g
+    ethereum-gho:
+        source: thegraph
+        name: Aave V3 Ethereum
+        subgraph_id: BQN5t5Mgti3BNLsZYEiL1MtiBJLa1DQJnaquXR1zTBjn
+    ethereum-lido:
+        source: thegraph
+        name: Aave V3 Lido
+        subgraph_id: 5vxMbXRhG1oQr55MWC5j6qg78waWujx1wjeuEWDA6j3
+    ethereum-etherfi:
+        source: thegraph
+        name: Aave V3 EtherFi
+        subgraph_id: 8o4HGApJkAqnvxAHShG4w5xiXihHyL7HkeDdQdRUYmqZ
+    avalanche:
+        source: thegraph
+        name: Aave V3 Avalanche
+        subgraph_id: 2h9woxy8RTjHu1HJsCEnmzpPHFArU33avmUh4f71JpVn
+    arbitrum:
+        source: thegraph
+        name: Aave V3 Arbitrum
+        subgraph_id: DLuE98kEb5pQNXAcKFQGQgfSQ57Xdou4jnVbAEqMfy3B
+    base:
+        source: thegraph
+        name: Aave V3 Base
+        subgraph_id: GQFbb95cE6d8mV989mL5figjaGaKCQB3xqYrr1bRyXqF
+    bnb:
+        source: thegraph
+        name: Aave V3 BNB-Chain
+        subgraph_id: 7Jk85XgkV1MQ7u56hD8rr65rfASbayJXopugWkUoBMnZ
+    fantom:
+        source: thegraph
+        name: Aave V3 Fantom
+        subgraph_id: 6L1vPqyE3xvkzkWjh6wUKc1ABWYYps5HJahoxhrv2PJn
+    gnosis:
+        source: thegraph
+        name: Aave V3 Gnosis
+        subgraph_id: HtcDaL8L8iZ2KQNNS44EBVmLruzxuNAz1RkBYdui1QUT
+    harmony:
+        source: thegraph
+        name: Aave V3 Harmony
+        subgraph_id: FifJapBdCqT9vgNqJ5axmr6eNyUpUSaRAbbZTfsViNsT
+    optimism:
+        source: thegraph
+        name: Aave V3 Optimism
+        subgraph_id: DSfLz8oQBUeU5atALgUFQKMTSYV9mZAVYp4noLSXAfvb
+    scroll:
+        source: thegraph
+        name: Aave V3 Scroll
+        subgraph_id: 74JwenoHZb2aAYVGCCSdPWzi9mm745dyHyQQVoZ7Sbub
+    polygon:
+        source: thegraph
+        name: Aave V3 Polygon
+        subgraph_id: Co2URyXjnxaw8WqxKyVHdirq9Ahhm5vcTs4dMedAq211
+    zksync:
+        source: thegraph
+        name: Aave V3 zkSync
+        subgraph_id: ENYSc8G3WvrbhWH8UZHrqPWYRcuyCaNmaTmoVp7uzabM
+    metis:
+        source: 0xgraph
+        name: Aave V3 Metis
+        endpoint: https://metisapi.0xgraph.xyz/subgraphs/name/aave/protocol-v3-metis/
+2:
+    ethereum-core:
+        name: Aave V2 Ethereum Core
+        subgraph_id: 8wR23o1zkS4gpLqLNU4kG3JHYVucqGyopL5utGxP2q1N
+    polygon:
+        name: Aave V2 Polygon
+        subgraph_id: H1Et77RZh3XEf27vkAmJyzgCME2RSFLtDS2f4PPW6CGp
+    avalanche:
+        name: Aave V2 Avalanche
+        subgraph_id: EZvK18pMhwiCjxwesRLTg81fP33WnR6BnZe5Cvma3H1C
